@@ -25,7 +25,7 @@ const App = () => {
           import.meta.env.VITE_API_KEY
         }`
       );
-      console.log("data", data);
+      console.log('data', data);
       setImages(data.results);
       setTotalPages(data.total_pages);
     } catch (error) {
@@ -36,6 +36,7 @@ const App = () => {
   const handleSearch = (event) => {
     event.preventDefault();
     console.log(searchInput.current.value);
+    fetchImages();
   };
 
   const handleSelection = (selection) => {
