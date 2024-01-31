@@ -10,3 +10,9 @@ This project was built with CSS, HTML, JavaScript, ReactJS, and Vite. It utilize
 <img width="1470" alt="Screenshot 2024-01-31 at 1 54 02 PM" src="https://github.com/searley96/image_search_app/assets/119346063/a2366c4b-52f5-4fb4-8bb9-601760db8905">
 <img width="1470" alt="Screenshot 2024-01-31 at 1 54 23 PM" src="https://github.com/searley96/image_search_app/assets/119346063/6930e3a2-66e7-413a-ace8-6fd0f78b24df">
 <img width="1470" alt="Screenshot 2024-01-31 at 1 54 32 PM" src="https://github.com/searley96/image_search_app/assets/119346063/26e9a969-2d01-42c7-a7ca-19c7d69bf36b">
+
+# Instructions
+
+Fork this project and open it in your code editer of choice (I used VS Code).
+
+Start the app by entering 'npm run dev' into your terminal. 
